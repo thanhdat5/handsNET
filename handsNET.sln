@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "handsNET.Common", "handsNET.Common\handsNET.Common.csproj", "{2F14D332-C0AD-4424-AFF0-27A617D4D662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "handsNET.Data", "handsNET.Data\handsNET.Data.csproj", "{55B9ED2B-B4A2-4164-B43C-82A266005DF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "handsNET.Model", "handsNET.Model\handsNET.Model.csproj", "{05DAFD38-572B-4157-9905-DE9714D4489A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "handsNET.Service", "handsNET.Service\handsNET.Service.csproj", "{0E2463C2-B621-431A-AEAB-C51787470EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "handsNET.UnitTest", "handsNET.UnitTest\handsNET.UnitTest.csproj", "{47AFF71E-2952-49FE-BCC6-9E64ADE686B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "handsNET.Web", "handsNET.Web\handsNET.Web.csproj", "{259E9907-287E-4AF7-9F44-D53B5D2EA93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F14D332-C0AD-4424-AFF0-27A617D4D662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F14D332-C0AD-4424-AFF0-27A617D4D662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F14D332-C0AD-4424-AFF0-27A617D4D662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F14D332-C0AD-4424-AFF0-27A617D4D662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B9ED2B-B4A2-4164-B43C-82A266005DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B9ED2B-B4A2-4164-B43C-82A266005DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B9ED2B-B4A2-4164-B43C-82A266005DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B9ED2B-B4A2-4164-B43C-82A266005DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05DAFD38-572B-4157-9905-DE9714D4489A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DAFD38-572B-4157-9905-DE9714D4489A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DAFD38-572B-4157-9905-DE9714D4489A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DAFD38-572B-4157-9905-DE9714D4489A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2463C2-B621-431A-AEAB-C51787470EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2463C2-B621-431A-AEAB-C51787470EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2463C2-B621-431A-AEAB-C51787470EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2463C2-B621-431A-AEAB-C51787470EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AFF71E-2952-49FE-BCC6-9E64ADE686B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AFF71E-2952-49FE-BCC6-9E64ADE686B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AFF71E-2952-49FE-BCC6-9E64ADE686B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AFF71E-2952-49FE-BCC6-9E64ADE686B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{259E9907-287E-4AF7-9F44-D53B5D2EA93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259E9907-287E-4AF7-9F44-D53B5D2EA93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259E9907-287E-4AF7-9F44-D53B5D2EA93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259E9907-287E-4AF7-9F44-D53B5D2EA93B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
