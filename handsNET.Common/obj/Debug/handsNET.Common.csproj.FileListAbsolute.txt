@@ -1,0 +1,5 @@
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Common\bin\Debug\handsNET.Common.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Common\bin\Debug\handsNET.Common.pdb
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Common\obj\Debug\handsNET.Common.csprojResolveAssemblyReference.cache
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Common\obj\Debug\handsNET.Common.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Common\obj\Debug\handsNET.Common.pdb

@@ -42,5 +42,19 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\handsNET.Common\handsNET.Common.csproj">
+      <Project>{2f14d332-c0ad-4424-aff0-27a617d4d662}</Project>
+      <Name>handsNET.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\handsNET.Data\handsNET.Data.csproj">
+      <Project>{55b9ed2b-b4a2-4164-b43c-82a266005df6}</Project>
+      <Name>handsNET.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\handsNET.Model\handsNET.Model.csproj">
+      <Project>{05dafd38-572b-4157-9905-de9714d4489a}</Project>
+      <Name>handsNET.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,13 @@
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\bin\Debug\handsNET.Service.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\bin\Debug\handsNET.Service.pdb
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\bin\Debug\handsNET.Common.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\bin\Debug\handsNET.Data.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\bin\Debug\handsNET.Model.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\bin\Debug\handsNET.Common.pdb
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\bin\Debug\handsNET.Data.pdb
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\bin\Debug\handsNET.Data.dll.config
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\bin\Debug\handsNET.Model.pdb
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\bin\Debug\handsNET.Model.dll.config
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\obj\Debug\handsNET.Service.csprojResolveAssemblyReference.cache
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\obj\Debug\handsNET.Service.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\obj\Debug\handsNET.Service.pdb

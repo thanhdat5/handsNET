@@ -1,0 +1,12 @@
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\bin\Debug\handsNET.Data.dll.config
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\bin\Debug\handsNET.Data.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\bin\Debug\handsNET.Data.pdb
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\bin\Debug\EntityFramework.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\bin\Debug\handsNET.Common.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\bin\Debug\handsNET.Common.pdb
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\bin\Debug\EntityFramework.xml
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\obj\Debug\handsNET.Data.csprojResolveAssemblyReference.cache
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\obj\Debug\handsNET.Data.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\obj\Debug\handsNET.Data.pdb
