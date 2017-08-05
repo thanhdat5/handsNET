@@ -7,9 +7,11 @@ namespace handsNET.Model.Models
     public class ProductTag
     {
         [Key]
+        [Column(Order = 1)]
         public int ProductID { get; set; }
 
         [Key]
+        [Column(Order = 2, TypeName = "varchar")]
         [MaxLength(50)]
         public string TagID { get; set; }
 

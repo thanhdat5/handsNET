@@ -27,7 +27,8 @@ namespace handsNET.Model.Models
         [MaxLength(500)]
         public string Image { get; set; }
 
-        public XElement MoreImage { get; set; }
+        [Column(TypeName = "xml")]
+        public string MoreImages { set; get; }
         public decimal Price { get; set; }
         public decimal? PricePromotion { get; set; }
         public int? Warranty { get; set; }

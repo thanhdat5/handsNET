@@ -48,9 +48,6 @@ namespace handsNET.Model.Models
         [MaxLength(256)]
         public string ModifiedBy { get; set; }
 
-        [ForeignKey("OrderID")]
-        public virtual OrderDetail OrderDetail { get; set; }
-
         public virtual IEnumerable<OrderDetail> OrderDetails { set; get; }
     }
 }
