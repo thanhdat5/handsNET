@@ -45,5 +45,7 @@ namespace handsNET.Model.Models
 
         [ForeignKey("CategoryID")]
         public virtual ProductCategory ProductCategory { get; set; }
+        public virtual IEnumerable<ProductTag> ProductTags { set; get; }
+        public virtual IEnumerable<OrderDetail> OrderDetails { set; get; }
     }
 }
