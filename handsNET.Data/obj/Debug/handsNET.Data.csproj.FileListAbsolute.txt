@@ -10,3 +10,6 @@ C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\bin\Debug\Entity
 C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\obj\Debug\handsNET.Data.csprojResolveAssemblyReference.cache
 C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\obj\Debug\handsNET.Data.dll
 C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\obj\Debug\handsNET.Data.pdb
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\bin\Debug\handsNET.Model.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\bin\Debug\handsNET.Model.pdb
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Data\bin\Debug\handsNET.Model.dll.config

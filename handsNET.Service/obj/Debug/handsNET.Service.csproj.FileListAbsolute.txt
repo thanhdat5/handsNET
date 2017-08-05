@@ -11,3 +11,5 @@ C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\bin\Debug\han
 C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\obj\Debug\handsNET.Service.csprojResolveAssemblyReference.cache
 C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\obj\Debug\handsNET.Service.dll
 C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\obj\Debug\handsNET.Service.pdb
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\bin\Debug\EntityFramework.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.Service\bin\Debug\EntityFramework.xml

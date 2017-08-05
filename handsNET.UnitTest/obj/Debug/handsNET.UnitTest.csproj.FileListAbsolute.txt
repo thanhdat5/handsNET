@@ -71,3 +71,5 @@ C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.UnitTest\bin\Debug\Sy
 C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.UnitTest\obj\Debug\handsNET.UnitTest.csprojResolveAssemblyReference.cache
 C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.UnitTest\obj\Debug\handsNET.UnitTest.dll
 C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.UnitTest\obj\Debug\handsNET.UnitTest.pdb
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Oai Huong Tim\Source\Repos\Core\handsNET\handsNET.UnitTest\bin\Debug\EntityFramework.xml
